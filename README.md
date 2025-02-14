@@ -1,4 +1,2 @@
 # PLAYERS
-Programación para videojuegos 
-
-Esto es una pruebaaaaaaa
+Programación para videojuegos - Esto es una pruebaaaaaaa
